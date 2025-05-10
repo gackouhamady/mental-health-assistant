@@ -54,7 +54,3 @@ This project aims to develop a virtual assistant capable of engaging empathetica
 ## ⚠️ Ethical Note
 
 This project aims for supportive, non-medical use. The assistant does not replace a mental health professional. In cases of acute distress, please contact a helpline or a qualified professional.
-
----
-
-You can use this README as a starting point and enrich it as the project progresses. Would you like help generating a folder structure or a `requirements.txt` file to set up your environment?
