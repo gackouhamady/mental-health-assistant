@@ -1,4 +1,4 @@
 roadmap.md
 venv
 data
-!data/data_preparation.py
+!data/data_preparation.ipynb
