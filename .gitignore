@@ -1,3 +1,4 @@
 roadmap.md
 venv
 data
+!exclude data/data_preparation.py
