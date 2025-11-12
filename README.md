@@ -76,3 +76,11 @@ This project aims to develop a virtual assistant capable of engaging empathetica
 ##  Ethical Note
 
 This project aims for supportive, non-medical use. The assistant does not replace a mental health professional. In cases of acute distress, please contact a helpline or a qualified professional.
+
+
+
+## Start  VsCode   on  Cloud   GCP
+
+```bash
+ bash ~/start_vscode_cloud.sh
+```
