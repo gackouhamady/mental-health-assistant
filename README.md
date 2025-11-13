@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/gackouhamady/mental-health-assistant)
 
 
-
+#  Empathetic Assistant — Well-being and Dialogue 
 - [Empathetic Assistant — Well-being and Dialogue](#-empathetic-assistant--well-being-and-dialogue)
 - [Project Objective](#-project-objective)
 - [Context](#-context)
@@ -93,7 +93,6 @@ This project explores how to fine-tune a lightweight model (DistilGPT-2) on **CP
   - Textbox for user input.  
   - Sliders to adjust response temperature and length.  
   - Display panel for generated response with detected emotion.  
-- Bilingual interface (English/French), deployable locally or via **Hugging Face Spaces**.  
 
 **Preview:**
 ![Gradio Interface](ae_gradio.png)
