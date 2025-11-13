@@ -1,3 +1,14 @@
+[![Transformers](https://img.shields.io/badge/Transformers-4.46.0-orange.svg)](https://huggingface.co/transformers/)
+[![Datasets](https://img.shields.io/badge/Datasets-2.19.1-lightblue.svg)](https://huggingface.co/docs/datasets/)
+[![PyTorch](https://img.shields.io/badge/Torch-2.3.0-red.svg)](https://pytorch.org/)
+[![Gradio](https://img.shields.io/badge/Gradio-4.30.0-success.svg)](https://www.gradio.app/)
+[![Evaluate](https://img.shields.io/badge/BERTScore-evaluate-yellow.svg)](https://huggingface.co/docs/evaluate/)
+[![Hugging%20Face%20Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-blue.svg)](https://huggingface.co/spaces)
+[![License: Open](https://img.shields.io/badge/license-Open-lightgrey.svg)](#ethical-note)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
+[![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/gackouhamady/mental-health-assistant)
+
+
 #  Empathetic Assistant — Well-being and Dialogue  
 *(Mental Health Assistant — Based on Language Models)*  
 
