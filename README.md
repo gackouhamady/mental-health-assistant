@@ -23,6 +23,7 @@
 - [Technologies Used](#-technologies-used)
 - [Summary of Results](#-summary-of-results)
 - [Cloud Execution (GCP)](#️-cloud-execution-gcp)
+- [Live Demo](#-live-demo)
 - [Future Work](#-future-work)
 - [Ethical Note](#️-ethical-note)
 - [Author](#-author)
@@ -129,6 +130,16 @@ This project explores how to fine-tune a lightweight model (DistilGPT-2) on **CP
 # Launch Visual Studio Code on your GCP virtual machine
 bash ~/start_vscode_cloud.sh
 ```
+
+## Live Demo
+
+- You can try the deployed **Mental Health Assistant** directly on Hugging Face Spaces.
+
+- ** Live Demo:**  [Mental Health Assistant – Hugging Face Space](https://huggingface.co/spaces/researcherdatascientist/mental-health-assistant)
+
+- This online Gradio demo showcases the final fine-tuned **DistilGPT-2** model for empathetic dialogue generation, combined with **DistilBERT** for emotion detection.  
+- It allows users to experience natural, supportive, and emotion-aware conversations in real time.
+
 
 ## Future Work 
 
