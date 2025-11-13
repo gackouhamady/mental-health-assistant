@@ -129,3 +129,24 @@ This project explores how to fine-tune a lightweight model (DistilGPT-2) on **CP
 ```bash
 # Launch Visual Studio Code on your GCP virtual machine
 bash ~/start_vscode_cloud.sh
+```
+
+## Future Work 
+
+- Fine-tuning with GPU to improve model accuracy and fluency.
+
+- Expand the dataset with more mental health and supportive dialogue samples.
+
+- Conduct human evaluation to assess empathy and perceived warmth.
+
+- Add a multimodal component (voice-based emotion recognition).
+
+## Ethical Note :
+
+- This assistant is designed to listen and support, not diagnose or treat.
+- It is not a replacement for mental health professionals.
+- If you are experiencing distress, please contact a qualified therapist or emergency helpline.
+
+## Author :
+- Hamady Gackou
+- Master’s Student – Machine Learning & Data Science, Université Paris Cité
