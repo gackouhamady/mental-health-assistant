@@ -9,6 +9,27 @@
 [![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/gackouhamady/mental-health-assistant)
 
 
+
+- [Empathetic Assistant — Well-being and Dialogue](#-empathetic-assistant--well-being-and-dialogue)
+- [Project Objective](#-project-objective)
+- [Context](#-context)
+- [Main Project Phases](#️-main-project-phases)
+  - [Phase 1 – Data Exploration and Preparation](#phase-1--data-exploration-and-preparation)
+  - [Phase 2 – Tokenization](#phase-2--tokenization)
+  - [Phase 3 – Baseline Prototype](#phase-3--baseline-prototype)
+  - [Phase 4 – Fine-Tuning on CPU](#phase-4--fine-tuning-on-cpu)
+  - [Phase 5 – Hyperparameter Tuning & Re-Training](#phase-5--hyperparameter-tuning--re-training)
+  - [Phase 6 – User Interface (Gradio)](#phase-6--user-interface-gradio)
+- [Technologies Used](#-technologies-used)
+- [Summary of Results](#-summary-of-results)
+- [Cloud Execution (GCP)](#️-cloud-execution-gcp)
+- [Future Work](#-future-work)
+- [Ethical Note](#️-ethical-note)
+- [Author](#-author)
+
+
+
+
 #  Empathetic Assistant — Well-being and Dialogue  
 *(Mental Health Assistant — Based on Language Models)*  
 
